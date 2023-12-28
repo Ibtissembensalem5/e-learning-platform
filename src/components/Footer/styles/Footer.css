@@ -1,0 +1,49 @@
+/* Footer.css */
+.footer-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact-form h2 {
+    margin-bottom: 20px;
+  }
+  
+  .contact-form form {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .contact-form label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .contact-form input,
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .contact-form button {
+    background-color: #8f115e;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact-form button:hover {
+    background-color: #a2618a;
+  }
+  
+  .contact-info {
+    /* Ajoutez les styles pour vos informations de contact ici */
+  }
+  

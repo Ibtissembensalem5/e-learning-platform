@@ -1,0 +1,23 @@
+/* App.css */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Header.css */
+.header-container {
+  /* Ajoutez vos styles pour le header */
+}
+
+/* Body.css */
+.main-container {
+  flex: 1;
+  /* Ajoutez vos styles pour le body */
+}
+
+/* Footer.css */
+.footer-container {
+  /* Ajoutez vos styles pour le footer */
+}
+
